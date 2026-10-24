@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.adrixai_hub.twa",
+      "sha256_cert_fingerprints": ["87:93:46:E9:E3:CC:65:A7:79:C7:0B:68:A3:0E:AB:4C:A8:9B:9B:F8:DF:2D:11:0D:A4:91:CA:4B:48:B3:00:76"]
+    }
+  }
+]
